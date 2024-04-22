@@ -1,0 +1,3 @@
+- This is Normal Flask REST API to Manage some Tasks for employees.
+- it holds dictionary has a memory base. CRUD operations runs in inmemory.
+- it has 5 api endpoints for doing crud operations.
